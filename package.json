@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-deque",
+  "version": "1.0.0",
+  "description": "Consistent ESLint standards for Deque product development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deque Systems, Inc",
+  "license": "MPL-2.0",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": "3",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
