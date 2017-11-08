@@ -240,7 +240,7 @@ module.exports = {
         }
       }
     ],
-    'padded-blocks': 'off',
+    'padded-blocks': ['error', 'never'],
     'prefer-arrow-callback': 'error',
     'prefer-const': 'off',
     'prefer-destructuring': [
