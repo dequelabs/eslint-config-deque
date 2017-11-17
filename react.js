@@ -32,6 +32,6 @@ module.exports = _.mergeWith(parent, {
     'react/jsx-first-prop-new-line': [2, 'multiline'],
     'react/jsx-equals-spacing': [2, 'never'],
     'react/jsx-no-literals': 2,
-    'react/jsx-curly-spacing': { 'when': 'never', 'children': true }
+    'react/jsx-curly-spacing': [2, "never"]
   }
 }, merger);
