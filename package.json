@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-deque",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Consistent ESLint standards for Deque product development",
   "main": "index.js",
   "scripts": {
